@@ -1,0 +1,8 @@
+<Weather>
+  <name>Madrid</name>
+  <country>ES</country>
+  <temp__max>283.15</temp__max>
+  <temp__min>282.15</temp__min>
+  <humidity>81</humidity>
+  <speed>1.5</speed>
+</Weather>
